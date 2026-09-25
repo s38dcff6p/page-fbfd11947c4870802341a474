@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.danzhouai.cn/sitemap.xml
